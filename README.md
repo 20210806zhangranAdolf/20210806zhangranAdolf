@@ -6,7 +6,7 @@
 ### **North China electric Power University** `2022.9 -`
 
 ```
-昌平区史各庄街道, 北京
+Scotts Street, Changping District, Beijing
 ```
 
 - Master of Engineering in Electrical Engineering
