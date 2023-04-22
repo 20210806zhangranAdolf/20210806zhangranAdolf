@@ -2,7 +2,7 @@
 
 
 ## Education
-### **China Three Gorges University** `2026.9 -2020.6`
+### **China Three Gorges University** `2016.9 -2020.6`
 ### **North China electric Power University** `2022.9 -`
 ```
 Scotts Street, Changping District, Beijing
