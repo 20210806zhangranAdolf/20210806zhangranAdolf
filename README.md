@@ -2,15 +2,14 @@
 
 
 ## Education
-
+### **China Three Gorges University** `2026.9 -2020.6`
 ### **North China electric Power University** `2022.9 -`
-
 ```
 Scotts Street, Changping District, Beijing
 ```
-
+- Research interest：Electromagnetic compatibility（in substation）、High speed circuit signal integrit
 - Master of Engineering in Electrical Engineering
-- advised by [张卫东 Zhang Weidong ](https://electric.ncepu.edu.cn/szdw/xyjj6/dcycddgyjs/91e7cf913fef4b3f84b505ec24cef90a.htm) and []
+- advised by [张卫东 Zhang Weidong ](https://electric.ncepu.edu.cn/szdw/xyjj6/dcycddgyjs/91e7cf913fef4b3f84b505ec24cef90a.htm)
 
 ## Publications
 
