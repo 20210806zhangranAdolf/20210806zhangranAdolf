@@ -10,7 +10,7 @@ Scotts Street, Changping District, Beijing
 ```
 
 - Master of Engineering in Electrical Engineering
-- Co-advised by [张卫东 Zhang Weidong ](https://electric.ncepu.edu.cn/szdw/xyjj6/dcycddgyjs/91e7cf913fef4b3f84b505ec24cef90a.htm) and []
+- advised by [张卫东 Zhang Weidong ](https://electric.ncepu.edu.cn/szdw/xyjj6/dcycddgyjs/91e7cf913fef4b3f84b505ec24cef90a.htm) and []
 
 ## Publications
 
@@ -27,7 +27,7 @@ _In Proceedings of the 34th ACM Symposium on User Interface Software and Technol
 ## Experience
 ### **Apple** `2022.5 - 2022.9`
 
-_Research Intern - Machine Intelligence_<br>
+_Research Intern -Electromagnetic compatibility、High speed circuit signal integrity_<br>
 
 ### **Microsoft Research** `2020.5 - 2020.8`
 
