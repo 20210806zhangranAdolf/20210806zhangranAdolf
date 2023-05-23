@@ -12,7 +12,7 @@ Yiling District, Yichang City, Hubei Province
 Scotts Street, Changping District, Beijing
 ```
 - Research interest：Electromagnetic compatibility（in substation）、High speed circuit signal integrity
-- Master of Engineering in Electrical Engineering
+- Pursuing an academic master's degree in electrical engineering
 - advised by [张卫东 Zhang Weidong ](https://electric.ncepu.edu.cn/szdw/xyjj6/dcycddgyjs/91e7cf913fef4b3f84b505ec24cef90a.htm)
 
 ## Publications
