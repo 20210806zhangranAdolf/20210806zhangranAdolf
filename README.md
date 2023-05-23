@@ -3,6 +3,10 @@
 
 ## Education
 ### **China Three Gorges University** `2016.9 -2020.6`
+```
+Yiling District, Yichang City, Hubei Province
+```
+- I received my Bachelor's degree in Electrical Engineering and Automation in 2020
 ### **North China electric Power University** `2022.9 -`
 ```
 Scotts Street, Changping District, Beijing
